@@ -29,7 +29,7 @@ The case study was divided into **3 parts**:
 > 💡 This assumes Python 3.10+ and pip are installed.
 
 ### 1. Clone the repo
-```bash
+bash
 git clone https://github.com/your-username/stockflow-case-study.git
 cd stockflow-case-study
 
@@ -38,6 +38,18 @@ python -m venv venv
 
 ### 3.Activate the environment
 venv\Scripts\activate.bat
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 4.Install dependencies
 pip install -r requirements.txt
